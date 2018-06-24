@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EES UFSCAR</string>
+    <string name="toast_joke_error">Não foi possível buscar o Chuck Norris Fact</string>
+    <string name="button_fetch_another">BUSCAR OUTRA</string>
+    <string name="button_start_jokes">COMEÇAR</string>
+    <string name="label_app_intro">Bem-vindo aos fatos do Chuck Norris</string>
+</resources>
